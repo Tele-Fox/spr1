@@ -186,7 +186,7 @@ return {
    },
    patterns = {
       "^!meme (search) (.+)$",
-      '^!meme (list)$',
+      '^!mems $',
       '^!meme (listall)$',
       '^!meme (.+) "(.*)" "(.*)"$',
       '^!meme "(.+)" "(.*)" "(.*)"$',

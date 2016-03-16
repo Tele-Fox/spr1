@@ -173,8 +173,8 @@ return {
     "!stats bot: Shows bot stats (sudo users)"
   },
   patterns = {
-    "^!([Ss]tats)$",
-    "^!([Ss]tats) (chat) (%d+)",
+    "^!(stats)$",
+    "^!(stats) (chat) (%d+)",
     "^!([Ss]tats) (bot)"
     }, 
   run = run,
